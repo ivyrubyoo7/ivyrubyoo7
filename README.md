@@ -90,42 +90,6 @@ DevOps                 ███░░░░░░░ 30%
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 ---
----
-
-# 🚀 Featured Projects
-
-## 🏥 Hack4Health
-Healthcare-focused project aimed at improving accessibility and digital health experiences.
-
-**Tech Used:**  
-JavaScript • HTML • CSS • APIs
-
----
-
-## 📝 Blog-O-Meter
-A blogging and content platform project focused on frontend + backend integration.
-
-**Tech Used:**  
-JavaScript • Node.js • Express • MongoDB
-
----
-
-## 🤖 AI Exploration Projects
-Experimenting with:
-- LLM integrations
-- AI automation workflows
-- Prompt engineering
-- AI-assisted applications
-
----
-
-## ⚙️ IoT & Intelligent Systems (In Progress)
-Currently exploring:
-- ESP32
-- Arduino
-- Smart sensor systems
-- Embedded programming
-- Hardware + software integration
 
 # 🌐 Connect With Me
 
