@@ -1,16 +1,14 @@
-## Hi there 👋
+<img width="2132" height="1200" alt="aes4" src="https://github.com/user-attachments/assets/0851e7d4-36b1-4a28-b9e3-a62acf4b0b39" />
+<div align="center">
 
-<!--
-**ivyrubyoo7/ivyrubyoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="PASTE_YOUR_IMAGE_LINK_HERE" width="100%" />
 
-Here are some ideas to get you started:
+# Hey 👋 I'm Ricky
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI • Backend • Intelligent Systems • IoT
+
+🧠 Computer Engineering Student  
+⚡ Exploring AI, Backend Systems & Smart Hardware  
+☕ Java Developer | C++ Learner | AI Tool Explorer  
+
+</div>
