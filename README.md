@@ -29,27 +29,90 @@ AI • Backend • Intelligent Systems • IoT
 
 ---
 
+---
+
 # 🧠 Current Focus
 
 <div align="center">
 
-<img width="100%" src="YOUR_IMAGE_LINK_HERE"/>
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Engineering
+```text
+█████████████████░░░ 85%
+```
+
+### ⚙️ Backend Development
+```text
+████████████████░░░░ 80%
+```
+
+### ☕ Java
+```text
+████████████████░░░░ 80%
+```
+
+</td>
+
+<td width="50%">
+
+### 🔌 IoT / Hardware
+```text
+████████████░░░░░░░░ 60%
+```
+
+### 🎨 Frontend
+```text
+████████░░░░░░░░░░░░ 40%
+```
+
+### 🚀 DevOps
+```text
+██████░░░░░░░░░░░░░░ 30%
+```
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
 
 <div align="center">
 
-| Domain | Focus |
-|---|---|
-| 🤖 AI Engineering | Building intelligent systems & exploring AI tools |
-| ⚙️ Backend Development | Designing APIs & scalable backend systems |
-| ☕ Java | Core language strength & backend development |
-| 🔌 IoT / Hardware | Smart systems & embedded exploration |
-| 🎨 Frontend | Modern responsive UI development |
-| 🚀 DevOps | Learning CI/CD & automation workflows |
+```mermaid
+mindmap
+  root((Ricky))
+    AI Engineering
+      LLMs
+      Automation
+      AI APIs
+    Backend
+      Java
+      Spring Boot
+      APIs
+    IoT
+      ESP32
+      Arduino
+      Embedded
+    Systems
+      Multithreading
+      OS
+      Networking
+```
 
 </div>
 
+---
+
+<div align="center">
+
+### ✨ Always learning • Always building • Always improving
+
+</div>
 ---
 
 <div align="center">
