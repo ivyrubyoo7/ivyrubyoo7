@@ -75,8 +75,6 @@ DevOps                 ███░░░░░░░ 30%
 
 ## IoT / Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
