@@ -4,7 +4,9 @@
 <div align="center">
 
 # Hey 👋 I'm Ricky
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2B+Backend+Developer;Intelligent+Systems+Explorer;Building+Software+%2B+Hardware+Systems;Java+%7C+C%2B%2B+%7C+AI+%7C+IoT" />
+</p>
 ### AI • Backend • Intelligent Systems • IoT
 
 🧠 Computer Engineering Student  
@@ -116,5 +118,13 @@ DevOps                 ███░░░░░░░ 30%
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ivyrubyoo7&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ivyrubyoo7&style=for-the-badge&color=blue)
 
 </div>
