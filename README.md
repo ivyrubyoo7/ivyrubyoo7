@@ -1,5 +1,5 @@
-<img width="2132" height="1200" alt="aes4" src="https://github.com/user-attachments/assets/0851e7d4-36b1-4a28-b9e3-a62acf4b0b39" />
 <div align="center">
+<img width="1200" height="630" alt="aes2" src="https://github.com/user-attachments/assets/498e8dae-86d8-4e0b-9335-e073522c5591" />
 
 # Hey 👋 I'm Ricky
 
