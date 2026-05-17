@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2B+Backend+Developer;Intelligent+Systems+Explorer;Building+Software+%2B+Hardware+Systems;Java+%7C+C%2B%2B+%7C+AI+%7C+IoT" />
 </p>
-### AI • Backend • Intelligent Systems • IoT
+AI • Backend • Intelligent Systems • IoT
 
 🧠 Computer Engineering Student  
 ⚡ Exploring AI, Backend Systems & Smart Hardware  
@@ -27,16 +27,36 @@
 
 ---
 
+---
+
 # 🧠 Current Focus
 
-```txt
-AI Engineering         █████████░ 85%
-Backend Development    ████████░░ 80%
-Java                   ████████░░ 80%
-IoT / Hardware         ██████░░░░ 60%
-Frontend               ████░░░░░░ 40%
-DevOps                 ███░░░░░░░ 30%
-```
+<div align="center">
+
+<img width="100%" src="YOUR_IMAGE_LINK_HERE"/>
+
+</div>
+
+<div align="center">
+
+| Domain | Focus |
+|---|---|
+| 🤖 AI Engineering | Building intelligent systems & exploring AI tools |
+| ⚙️ Backend Development | Designing APIs & scalable backend systems |
+| ☕ Java | Core language strength & backend development |
+| 🔌 IoT / Hardware | Smart systems & embedded exploration |
+| 🎨 Frontend | Modern responsive UI development |
+| 🚀 DevOps | Learning CI/CD & automation workflows |
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Always learning. Always building. Always improving.
+
+</div>
 ---
 
 # 🛠 Tech Stack
